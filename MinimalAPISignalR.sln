@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSignalServer", "MiniSignalServer\MiniSignalServer.csproj", "{3A1CE106-4414-4998-8CDA-2FB59AAB3F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSignalClient", "MiniSignalClient\MiniSignalClient.csproj", "{296D8318-26EB-44A1-8353-8028E75ECF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A1CE106-4414-4998-8CDA-2FB59AAB3F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1CE106-4414-4998-8CDA-2FB59AAB3F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1CE106-4414-4998-8CDA-2FB59AAB3F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1CE106-4414-4998-8CDA-2FB59AAB3F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296D8318-26EB-44A1-8353-8028E75ECF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296D8318-26EB-44A1-8353-8028E75ECF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296D8318-26EB-44A1-8353-8028E75ECF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296D8318-26EB-44A1-8353-8028E75ECF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E876051C-38C4-4543-AACF-AB9BAF3834A9}
+	EndGlobalSection
+EndGlobal
